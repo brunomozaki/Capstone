@@ -15,4 +15,4 @@ We plotted the map using the Folium feature and assigned the data to dataframe_f
 ### Discussion
 From the results, we can see that the two nearest places to get food are Tim Hortons and MountainView fare Trade Coffee. However, these two places are still farther than average distance between the bus stop and near spots. The average distance is 605.9. Tim Hortons and MountainView fare Trade Coffee’s distance are respectively 637 and 609. If we take a closer look, it is not a really big difference. However, a restaurant much closer to the bus stop would be ideal. Something like 100 meters away would be the perfect distance for someone who just had a workout and wanted to grab a bite and get on the bus as quick as possible.
 
-[Map view]()
+[Map view](https://github.com/BrunoMO47/Capstone/blob/master/image/Screen%20Shot%202020-09-02%20at%2013.03.46.png)
